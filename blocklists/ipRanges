@@ -98,4 +98,7 @@
 192.241.230.31/24
 
 # internet-albedo.net
-146.88.240.0/24
+146.88.240.0/23
+
+# research.esrg.stanford.edu
+171.67.70.0/23
