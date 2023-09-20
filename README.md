@@ -6,7 +6,7 @@ Still, they scan your host without your permission, wich formally makes their ac
 
 What can we do:
 1. Opt out. You can write on special email and ask to stop scanning you. Works only if they up to it, but still worth trying. List of emails and email example is in optOuts folder;
-2. Block them. Some companies are ignoring stop reqjests. Shodan.io is one oldest example. Blocklists (/24 subnets) are in blocklists folder;
+2. Block them. Some companies are ignoring stop requests. Shodan.io is one oldest example. Blocklists (/24 subnets) are in blocklists folder;
 3. Shame them. Do not hesitate to report abusive actions to hoster/provider (https://abusix.com/contact-db/ will help), and to post your case to https://abuseipdb.com for example;
 4. Adding them to whitelist in your log analyzer if what they do is OK for you. Also an option.
 
