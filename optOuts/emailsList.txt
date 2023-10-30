@@ -13,3 +13,4 @@ optout@internet-census.org
 request@aispera.com
 iostationblacklist@qomplx.com
 dnsscan@shadowserver.org
+request@aispera.com
