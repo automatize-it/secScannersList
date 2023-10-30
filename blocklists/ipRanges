@@ -107,3 +107,6 @@
 
 # benign.internet.survey.scan
 199.195.248.0/24
+
+# criminalip.com
+94.102.61.0/24
