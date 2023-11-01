@@ -14,3 +14,4 @@ request@aispera.com
 iostationblacklist@qomplx.com
 dnsscan@shadowserver.org
 request@aispera.com
+research@rapid7.com
