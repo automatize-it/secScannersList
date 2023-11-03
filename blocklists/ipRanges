@@ -132,3 +132,6 @@
 
 # rapid7.com (project sonar)
 109.123.117.224/27
+
+# odinn.tech
+103.187.191.0/24
