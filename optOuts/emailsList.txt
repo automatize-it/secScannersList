@@ -17,3 +17,4 @@ request@aispera.com
 research@rapid7.com
 optout@internet-measurement.com
 research-scan@sysnet.ucsd.edu 
+abuse@intrinsec.com
